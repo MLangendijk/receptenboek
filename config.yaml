@@ -16,13 +16,13 @@ pygmentscodefences: true
 pygmentscodefencesguesssyntax: true
 pygmentsOptions: "linenos=table"
 params:
-  author: Casper Meijn
-  description: Receptenboek van Daphne & Casper
+  author: Matthijs Langendijk
+  description: Receptenboek van Matthijs
   keywords: 'recipes'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
   showNavTitle: true
-  repo: 'https://gitlab.com/caspermeijn/receptenboek/'
+  repo: 'https://github.com/MLangendijk/receptenboek'
 menu:
   main:
     - name: Home

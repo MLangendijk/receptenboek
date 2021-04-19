@@ -9,8 +9,8 @@
 layout: recipe
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | humanize | title }}"
-authorName: Casper Meijn
-authorURL: https://caspermeijn.nl
+authorName: Matthijs Langendijk
+authorURL: https://iamatthijs.nl
 sourceName: # Naam van de bron van het recept
 sourceURL: # Website van de bron van het recept
 category: NogInTeVullen
